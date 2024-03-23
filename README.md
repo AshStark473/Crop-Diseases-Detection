@@ -1,1 +1,1 @@
-# Crop-Diseases-Detection
+# RiceLeaf-Diseases Detection
